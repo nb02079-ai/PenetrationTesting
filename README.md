@@ -49,9 +49,11 @@ src/
   waf/               Nginx + ModSecurity + OWASP CRS 리버스 프록시
   mariadb-reference/ DB 스키마·시드 참고본
 docs/
-  토폴로지_연결방식.md      as-built 네트워크 연결 방식
-  CASE_공격_시나리오북.md   CASE 1~3 공격·탐지·조치·재시험
-  VM_작업지시서/           VM별 구축 작업지시서 (공통규칙 + 9종 + 더미)
+  토폴로지_연결방식.md       as-built 네트워크 연결 방식
+  CASE_공격_시나리오북.md    CASE 1~3 공격 명령·탐지·조치·재시험
+  CASE_실행_통합본.md        역할·캡처(매뉴얼) + 실제 명령(시나리오북) 합본 실행본
+  CASE_테스트_실행매뉴얼.pdf  팀 역할/캡처 절차 매뉴얼
+  VM_작업지시서/            VM별 구축 작업지시서 (공통규칙 + 9종 + 더미)
 diagrams/            토폴로지 구성도
 planning/            프로젝트 계획서
 ```
