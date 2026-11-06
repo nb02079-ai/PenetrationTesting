@@ -56,6 +56,7 @@ docs/
   VM_작업지시서/            VM별 구축 작업지시서 (공통규칙 + 9종 + 더미)
 diagrams/            토폴로지 구성도
 planning/            프로젝트 계획서
+LOGION_Evidence/     CASE 1~3 실습 증거 캡처 (사전점검 + CASE별)
 ```
 
 ## 사용 기술
