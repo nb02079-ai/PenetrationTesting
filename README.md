@@ -57,7 +57,7 @@ docs/
 diagrams/            토폴로지 구성도
 planning/            프로젝트 계획서
 LOGION_Evidence/     CASE 1~3 실습 증거 캡처 (사전점검 + CASE별)
-reports/            결과보고서 (초안)
+reports/            결과보고서 — 초안 + 최종(검토 반영)
 ```
 
 ## 사용 기술
